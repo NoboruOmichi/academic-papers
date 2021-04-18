@@ -6,16 +6,16 @@
 
 ## 2019 年情報処理学会関西支部大会（ポスター）
 
-![ipsj2019paper](https://github.com/NoboruOmichi/academic-papers/blob/main/IPSJ-KansaiBranch2019/poster.PNG)
+![ipsj2019paper](https://github.com/NoboruOmichi/academic-papers/blob/master/IPSJ-KansaiBranch2019/poster.PNG)
 
 ## インタラクション 2020（ポスター）
 
-![interaction2020paper](https://github.com/NoboruOmichi/academic-papers/blob/main/interaction-ipsj2020/poster.PNG)
+![interaction2020paper](https://github.com/NoboruOmichi/academic-papers/blob/master/interaction-ipsj2020/poster.PNG)
 
 ## 2020 年情報処理学会関西支部大会（賞状）
 
-![ipsj2020certificate](https://github.com/NoboruOmichi/academic-papers/blob/main/IPSJ-KansaiBranch2020/certificate.PNG)
+![ipsj2020certificate](https://github.com/NoboruOmichi/academic-papers/blob/master/IPSJ-KansaiBranch2020/certificate.PNG)
 
 ## インタラクション 2021（ポスター）
 
-![interaction2021paper](https://github.com/NoboruOmichi/academic-papers/blob/main/interaction-ipsj2021/poster.PNG)
+![interaction2021paper](https://github.com/NoboruOmichi/academic-papers/blob/master/interaction-ipsj2021/poster.PNG)
